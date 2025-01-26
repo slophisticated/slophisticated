@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Rafael Ramdani 👋
 
-<!--
-**slophisticated/slophisticated** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 *Informatics Engineering Student | Aspiring Software Developer* 🎓  
 
-Here are some ideas to get you started:
+[![Discord Presence](https://lanyard.cnrad.dev/api/867592202708582401)](https://discord.com/users/867592202708582401)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌐 About Me  
+- 🖥️ Passionate about coding and software development  
+- 📘 Mastering Python and currently learning JavaScript  
+- 🌱 Always eager to learn new skills and explore exciting technologies
+- 🔭 I’m currently working on Bots and AI 
+
+---
+
+### 🛠️ Skills  
+- **Programming Languages:** Python, JavaScript, C++, C#, C, Java  
+- **Tools:** Git, Visual Studio Code, Jupyter Notebook  
+- **Interests:** Web Development, Data Science, and Software Engineering  
+
+---
+
+### 📊 GitHub Stats  
+![Rafael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=slophisticated&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=slophisticated&layout=compact&theme=tokyonight)
+
+---
+
+### 📫 Contact Me  
+- Discord: `aprctprince`  
+
+---
+
+> _"Code is like humor. When you have to explain it, it’s bad."_ – Alan Kay
