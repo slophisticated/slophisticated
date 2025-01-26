@@ -1,4 +1,4 @@
-# Hi, I'm Rafael Ramdani 👋
+# Hi, I'm Rafael Ramdani ![Badge](https://img.shields.io/badge/Hi%20👋-animated-green)
 
 🎓 *Informatics Engineering Student | Aspiring Software Developer* 🎓  
 
