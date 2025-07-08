@@ -21,7 +21,7 @@ I enjoy making things that are both useful and fun. Whether it’s a Discord bot
 ---
 
 ### 🧠 Skills & Tools
-- **Languages:** Python, JavaScript, C++, C#, C, Java  
+- **Languages:** Python, JavaScript, C++, C, Lua, Java  
 - **Tools I Use:** Git, VS Code, Jupyter Notebook, Roblox Studio  
 - **Dev Focus:** Web Apps, Bots, Simple AI, Automation Scripts  
 
