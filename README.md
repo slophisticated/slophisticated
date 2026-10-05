@@ -1,49 +1,33 @@
-# Hello, I'm Rafael <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXcwcG02MWtweWpqbjlpOGltc2o3NmJ3eTFvZnlra3U5amljY2lvMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/olr5oi9bxPVeV30Yye/giphy.gif" alt="Kuromi" width="60"/>
+<h1>Hi, I'm Rafael <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXcwcG02MWtweWpqbjlpOGltc2o3NmJ3eTFvZnlra3U5amljY2lvMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/olr5oi9bxPVeV30Yye/giphy.gif" alt="Kuromi" width="44"/></h1>
 
-🎓 *Computer Engineering Student* | 🧠 Always Curious & Exploring Tech  
+<img src="assets/hero.svg" alt="rafael runs /whoami and the Kuromi bot replies: computer engineering student who builds Discord bots and web dashboards, experiments with local LLMs, learns cybersecurity through CTFs, and is shipping a Kuromi bot with an AI personality." width="100%"/>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/867592202708582401)](https://discord.com/users/867592202708582401)
+I like making things that are useful and a little bit chaotic, like a Discord bot that flirts with its users or a clean dashboard to keep that bot in line. Most of what I know, I learned by building it.
 
----
+### What I'm building
 
-### 🧩 About Me  
-Hey! I'm Rafael — a curious builder who loves combining creativity with code.  
-I spend most of my time exploring:
+- A fullstack web dashboard for managing Discord bots
+- A Kuromi-themed Discord bot with an AI personality (work in progress)
+- Small experiments with Hugging Face models and local LLMs
 
-- 🕸️ **Web Development** (both front & backend)
-- 🤖 **Discord Bot Development**
-- 🧠 **AI Experiments** (mostly for fun, still learning)
-- 🔐 **Cybersecurity** (beginner, but fascinated by the world of CTFs)
-- 🎮 **Roblox Studio Scripting** (sometimes just for messing around)
+On the side: CTFs to learn cybersecurity, and Roblox Studio scripts when I just want to mess around.
 
-I enjoy making things that are both useful and fun. Whether it’s a Discord bot that flirts with chaos or a clean-looking dashboard, I’m all about learning through building.
+### Pinout
 
----
+<img src="assets/pinout.svg" alt="Languages: Python, JavaScript, C++, C, Lua, Java. Tools: Git, VS Code, Jupyter Notebook, Roblox Studio." width="100%"/>
 
-### 🧠 Skills & Tools
-- **Languages:** Python, JavaScript, C++, C, Lua, Java  
-- **Tools I Use:** Git, VS Code, Jupyter Notebook, Roblox Studio  
-- **Dev Focus:** Web Apps, Bots, Simple AI, Automation Scripts  
+### Activity
 
----
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=slophisticated&show_icons=true&hide_title=true&bg_color=1A1225&text_color=F2ECF7&icon_color=FF7EB6&title_color=FF7EB6&border_color=3B2A55&border_radius=12" alt="Rafael's GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slophisticated&layout=compact&hide_title=true&bg_color=1A1225&text_color=F2ECF7&title_color=FF7EB6&border_color=3B2A55&border_radius=12" alt="Most used languages" height="165"/>
+</p>
 
-### 🔧 Currently Working On
-- 🛠️ Fullstack web dashboard for managing Discord bots  
-- 🤖 Kuromi-themed Discord bot with AI personality (WIP)  
-- 🧪 Exploring AI models from HuggingFace & experimenting with local LLMs
+### Find me
 
----
+[![Discord presence](https://lanyard.cnrad.dev/api/867592202708582401)](https://discord.com/users/867592202708582401)
 
-### 📊 GitHub Stats
-![Rafael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=slophisticated&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=slophisticated&layout=compact&theme=tokyonight)
+Discord: `aprctprince`<br>
+Portfolio: coming soon
 
----
-
-### 📬 Let's Connect
-- 🧩 Discord: `aprctprince`
-- 🌐 Portofolio: _Coming Soon!_
-
----
-
-> _"Code is like humor. When you have to explain it, it’s bad."_ – Alan Kay
+> _"Code is like humor. When you have to explain it, it's bad."_ (Cory House)

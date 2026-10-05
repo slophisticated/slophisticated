@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="356" viewBox="0 0 860 356" role="img" aria-labelledby="t d">
+  <title id="t">rafael runs /whoami</title>
+  <desc id="d">A Discord-style chat. Rafael types /whoami and the Kuromi bot replies with an embed: computer engineering student who builds Discord bots and web dashboards, experiments with local LLMs, learns cybersecurity through CTFs, and is shipping a Kuromi bot with an AI personality.</desc>
+  <style>
+    .sans { font-family: 'gg sans', 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+    .mono { font-family: ui-monospace, 'JetBrains Mono', 'SF Mono', Menlo, Consolas, monospace; }
+    .cover { transform-box: fill-box; animation: type 0.7s steps(7) 0.4s both; }
+    .typing { opacity: 0; animation: typing 1.2s ease 1.2s both; }
+    .reply { animation: reply 0.35s ease-out 2.4s both; }
+    .dot { animation: blink 0.9s infinite; }
+    .dot:nth-child(2) { animation-delay: 0.15s; }
+    .dot:nth-child(3) { animation-delay: 0.3s; }
+    @keyframes type { from { transform: translateX(0); } to { transform: translateX(70px); } }
+    @keyframes typing { 0%, 100% { opacity: 0; } 10%, 90% { opacity: 1; } }
+    @keyframes reply { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+    @keyframes blink { 0%, 100% { opacity: 0.3; } 50% { opacity: 1; } }
+    @media (prefers-reduced-motion: reduce) {
+      .cover, .typing, .reply, .dot { animation: none; }
+      .cover { opacity: 0; }
+    }
+  </style>
+
+  <rect x="0.5" y="0.5" width="859" height="355" rx="12" fill="#1A1225" stroke="#3B2A55"/>
+
+  <!-- channel header -->
+  <text x="24" y="31" class="sans" font-size="20" fill="#6E6280">#</text>
+  <text x="42" y="30" class="sans" font-size="15" font-weight="700" fill="#F2ECF7">whoami</text>
+  <text x="836" y="30" class="sans" font-size="13" fill="#6E6280" text-anchor="end">rafael's lab</text>
+  <line x1="0" y1="48" x2="860" y2="48" stroke="#2E2240"/>
+
+  <!-- message 1: the command -->
+  <circle cx="44" cy="88" r="18" fill="#FF7EB6"/>
+  <text x="44" y="94" class="sans" font-size="16" font-weight="700" fill="#1A1225" text-anchor="middle">R</text>
+  <text x="76" y="82" class="sans" font-size="15" font-weight="700" fill="#F2ECF7">rafael</text>
+  <text x="130" y="82" class="sans" font-size="12" fill="#6E6280">today at 7:42 PM</text>
+  <text x="76" y="106" class="mono" font-size="15" fill="#FF7EB6">/whoami</text>
+  <rect class="cover" x="74" y="90" width="70" height="22" fill="#1A1225"/>
+
+  <!-- typing indicator -->
+  <g class="typing">
+    <g fill="#B9A3E3"><circle class="dot" cx="80" cy="148" r="3"/><circle class="dot" cx="90" cy="148" r="3"/><circle class="dot" cx="100" cy="148" r="3"/></g>
+    <text x="112" y="152" class="sans" font-size="12" fill="#6E6280">kuromi is typing</text>
+  </g>
+
+  <!-- message 2: the bot reply -->
+  <g class="reply">
+    <circle cx="44" cy="152" r="18" fill="#3B2A55"/>
+    <path d="M36 149a8 8 0 0 1 16 0v4h-3v4h-10v-4h-3z" fill="#F2ECF7"/>
+    <circle cx="41" cy="149" r="2" fill="#3B2A55"/>
+    <circle cx="47" cy="149" r="2" fill="#3B2A55"/>
+    <path d="M40 140l4-4 4 4z" fill="#FF7EB6"/>
+    <text x="76" y="146" class="sans" font-size="15" font-weight="700" fill="#FF7EB6">kuromi</text>
+    <rect x="136" y="134" width="32" height="15" rx="3" fill="#5B3F8C"/>
+    <text x="152" y="145" class="sans" font-size="10" font-weight="700" fill="#F2ECF7" text-anchor="middle">APP</text>
+    <text x="178" y="146" class="sans" font-size="12" fill="#6E6280">today at 7:42 PM</text>
+
+    <rect x="76" y="160" width="760" height="176" rx="6" fill="#221831"/>
+    <rect x="76" y="160" width="4" height="176" rx="2" fill="#FF7EB6"/>
+    <text x="98" y="190" class="sans" font-size="18" font-weight="700" fill="#F2ECF7">Rafael</text>
+    <text x="98" y="212" class="sans" font-size="14" fill="#B9A3E3">Computer engineering student who learns by building things.</text>
+
+    <text x="98" y="244" class="sans" font-size="12" font-weight="700" fill="#B9A3E3">Builds</text>
+    <text x="98" y="264" class="sans" font-size="14" fill="#F2ECF7">Discord bots and web dashboards</text>
+    <text x="460" y="244" class="sans" font-size="12" font-weight="700" fill="#B9A3E3">Experimenting with</text>
+    <text x="460" y="264" class="sans" font-size="14" fill="#F2ECF7">Local LLMs and Hugging Face models</text>
+
+    <text x="98" y="296" class="sans" font-size="12" font-weight="700" fill="#B9A3E3">Learning</text>
+    <text x="98" y="316" class="sans" font-size="14" fill="#F2ECF7">Cybersecurity, one CTF at a time</text>
+    <text x="460" y="296" class="sans" font-size="12" font-weight="700" fill="#B9A3E3">Shipping next</text>
+    <text x="460" y="316" class="sans" font-size="14" fill="#F2ECF7">A Kuromi bot with an AI personality</text>
+  </g>
+</svg>
