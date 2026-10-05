@@ -12,9 +12,9 @@ I like making things that are useful and a little bit chaotic, like a Discord bo
 
 On the side: CTFs to learn cybersecurity, and Roblox Studio scripts when I just want to mess around.
 
-### Pinout
+### Stack
 
-<img src="assets/pinout.svg" alt="Languages: Python, JavaScript, C++, C, Lua, Java. Tools: Git, VS Code, Jupyter Notebook, Roblox Studio." width="100%"/>
+<img src="assets/stack.svg" alt="Python, JavaScript, Java, C++, C, Lua, Git, VS Code, Jupyter Notebook, Roblox Studio" width="100%"/>
 
 ### Activity
 
