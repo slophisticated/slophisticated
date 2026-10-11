@@ -1,49 +1,38 @@
-# Hello, I'm Rafael <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXcwcG02MWtweWpqbjlpOGltc2o3NmJ3eTFvZnlra3U5amljY2lvMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/olr5oi9bxPVeV30Yye/giphy.gif" alt="Kuromi" width="60"/>
+<p align="center">
+  <img src="assets/kuromi-clean.svg" width="100%" alt="Rafael — a lilac ribbon and a little Kuromi-inspired mischief." />
+</p>
 
-🎓 *Computer Engineering Student* | 🧠 Always Curious & Exploring Tech  
+<p align="center">
+  <sub>Computer Engineering · web, bots &amp; AI</sub>
+</p>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/867592202708582401)](https://discord.com/users/867592202708582401)
+<br />
 
----
+<p align="center">
+  <img src="assets/tools-conveyor.svg" width="100%" alt="Python, JavaScript, C++, C, Lua, Java, Git, VS Code, Jupyter Notebook, Roblox Studio — a moving logo conveyor." />
+</p>
 
-### 🧩 About Me  
-Hey! I'm Rafael — a curious builder who loves combining creativity with code.  
-I spend most of my time exploring:
+<br />
 
-- 🕸️ **Web Development** (both front & backend)
-- 🤖 **Discord Bot Development**
-- 🧠 **AI Experiments** (mostly for fun, still learning)
-- 🔐 **Cybersecurity** (beginner, but fascinated by the world of CTFs)
-- 🎮 **Roblox Studio Scripting** (sometimes just for messing around)
+<p align="center">
+  <a href="https://github.com/slophisticated?tab=overview">
+    <img src="assets/contributions.svg" width="100%" alt="My GitHub contributions over the past year. A marker follows active days; darker purple means more contributions." />
+  </a>
+</p>
 
-I enjoy making things that are both useful and fun. Whether it’s a Discord bot that flirts with chaos or a clean-looking dashboard, I’m all about learning through building.
+<p align="center">
+  <a href="https://github.com/slophisticated?tab=repositories">repos</a>
+  &nbsp; · &nbsp;
+  <a href="https://discord.com/users/867592202708582401">discord</a>
+</p>
 
----
+<details>
+<summary>A little more</summary>
 
-### 🧠 Skills & Tools
-- **Languages:** Python, JavaScript, C++, C, Lua, Java  
-- **Tools I Use:** Git, VS Code, Jupyter Notebook, Roblox Studio  
-- **Dev Focus:** Web Apps, Bots, Simple AI, Automation Scripts  
+I'm Rafael, a Computer Engineering student exploring web development, Discord bots, AI, cybersecurity, and Roblox scripting.
 
----
+Currently experimenting with a Kuromi-themed AI bot, a bot-management dashboard, and local LLMs. Discord: `aprctprince`.
 
-### 🔧 Currently Working On
-- 🛠️ Fullstack web dashboard for managing Discord bots  
-- 🤖 Kuromi-themed Discord bot with AI personality (WIP)  
-- 🧪 Exploring AI models from HuggingFace & experimenting with local LLMs
+Languages: Python, JavaScript, C++, C, Lua, Java. Tools: Git, VS Code, Jupyter Notebook, Roblox Studio.
 
----
-
-### 📊 GitHub Stats
-![Rafael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=slophisticated&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=slophisticated&layout=compact&theme=tokyonight)
-
----
-
-### 📬 Let's Connect
-- 🧩 Discord: `aprctprince`
-- 🌐 Portofolio: _Coming Soon!_
-
----
-
-> _"Code is like humor. When you have to explain it, it’s bad."_ – Alan Kay
+</details>

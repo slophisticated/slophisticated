@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="190" viewBox="0 0 960 190" role="img" aria-labelledby="title desc">
+<title id="title">Rafael</title><desc id="desc">A quiet lilac nameplate with a black and lavender ribbon.</desc>
+<rect width="960" height="190" rx="16" fill="#f5f0fa"/>
+<text x="66" y="116" font-family="Georgia,serif" font-size="48" fill="#30233e">rafael.</text>
+<g transform="translate(700 87) scale(.64)">
+<path d="M-8-8C-34-49-84-70-108-51C-129-34-121 22-97 40C-74 58-31 31-8 6Z" fill="#30233e"/>
+<path d="M6-8C32-49 82-70 106-51C127-34 119 22 95 40C72 58 29 31 6 6Z" fill="#30233e"/>
+<path d="M-10 3L-49 87L-12 70L3 92L11 4ZM7 3L45 83L52 58L81 61L18-3Z" fill="#b79ace"/>
+<path d="M-20-11Q-1-24 18-11V10Q-1 22-20 10Z" fill="#b79ace"/>
+<path d="M-99-34Q-64-35-25-6M23-6Q61-35 96-34" fill="none" stroke="#f5f0fa" stroke-width="2" stroke-linecap="round"/>
+</g>
+<path d="M819 52V64M813 58H825" stroke="#805799" stroke-width="1.5" stroke-linecap="round"/>
+</svg>
