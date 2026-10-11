@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc">
+  <title id="title">Quietly curious — Rafael / slophisticated</title>
+  <desc id="desc">A pale lilac banner with deep plum lettering and a black and lavender ribbon. The ribbon gently sways twice, then rests. Reduced motion preferences disable movement.</desc>
+  <style>
+    .ribbon { transform-origin: 958px 191px; animation: ribbon-sway 4.4s ease-in-out 1; }
+    .thread { stroke-dasharray: 420; stroke-dashoffset: 0; animation: thread-draw 2.2s cubic-bezier(.16,1,.3,1) 1; }
+    @keyframes ribbon-sway { 0%,100% { transform: rotate(0deg); } 20% { transform: rotate(-7deg); } 45% { transform: rotate(5deg); } 70% { transform: rotate(-3deg); } }
+    @keyframes thread-draw { from { stroke-dashoffset: 420; } to { stroke-dashoffset: 0; } }
+    @media (prefers-reduced-motion: reduce) { .ribbon, .thread { animation: none; } }
+  </style>
+  <rect width="1200" height="400" rx="16" fill="#f5f0fa"/>
+  <text x="72" y="168" font-family="Georgia, 'Times New Roman', serif" font-size="84" fill="#30233e" letter-spacing="-2">Quietly curious.</text>
+  <text x="76" y="229" font-family="Arial, sans-serif" font-size="26" fill="#604b74">Rafael / slophisticated</text>
+  <path d="M76 285H682" stroke="#d7c9e4" stroke-width="1"/>
+  <text x="76" y="333" font-family="Arial, sans-serif" font-size="24" fill="#604b74">Little experiments. A little mischief.</text>
+  <path class="thread" d="M790 292C866 336 1012 328 1084 251" fill="none" stroke="#b79ace" stroke-width="2" stroke-linecap="round"/>
+  <g class="ribbon">
+    <path d="M951 183C925 142 875 121 851 140C830 157 838 213 862 231C885 249 928 222 951 197Z" fill="#30233e"/>
+    <path d="M965 183C991 142 1041 121 1065 140C1086 157 1078 213 1054 231C1031 249 988 222 965 197Z" fill="#30233e"/>
+    <path d="M949 194L910 278L947 261L962 283L970 195Z" fill="#b79ace"/>
+    <path d="M966 194L1004 274L1011 249L1040 252L977 188Z" fill="#b79ace"/>
+    <path d="M939 180Q958 167 977 180L977 201Q958 213 939 201Z" fill="#b79ace"/>
+    <path d="M860 157Q895 156 934 185M982 185Q1020 156 1055 157" fill="none" stroke="#f5f0fa" stroke-width="2" stroke-linecap="round"/>
+  </g>
+  <path d="M1086 88V108M1076 98H1096" stroke="#805799" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="816" cy="245" r="3" fill="#805799"/>
+</svg>

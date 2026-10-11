@@ -1,49 +1,58 @@
-# Hello, I'm Rafael <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXcwcG02MWtweWpqbjlpOGltc2o3NmJ3eTFvZnlra3U5amljY2lvMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/olr5oi9bxPVeV30Yye/giphy.gif" alt="Kuromi" width="60"/>
+<p align="center">
+  <img src="assets/kuromi-clean.svg" width="100%" alt="Quietly curious. Rafael / slophisticated. A lilac banner with a softly animated black and purple ribbon." />
+</p>
 
-🎓 *Computer Engineering Student* | 🧠 Always Curious & Exploring Tech  
+<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXcwcG02MWtweWpqbjlpOGltc2o3NmJ3eTFvZnlra3U5amljY2lvMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/olr5oi9bxPVeV30Yye/giphy.gif" alt="Kuromi" width="64" />
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/867592202708582401)](https://discord.com/users/867592202708582401)
+## Hi, I'm Rafael.
+
+Computer Engineering student, curious builder, and a fan of making useful things with a little personality.
+
+I explore **web development**, **Discord bots**, and **AI** through hands-on experiments. Also finding my way around cybersecurity and CTFs, with the occasional detour into Roblox Studio.
+
+[Repositories](https://github.com/slophisticated?tab=repositories) &nbsp; / &nbsp; [Discord](https://discord.com/users/867592202708582401)
+
+<br />
+
+### A few things I'm working on
+
+**A little personality for Discord**<br />
+A Kuromi-themed bot with an AI personality, and a fullstack dashboard for managing bots. Works in progress.
+
+**Experiments in AI**<br />
+Exploring Hugging Face models and local LLMs — learning what works by trying things out.
+
+<br />
+
+### Things I build with
+
+**Languages**<br />
+Python · JavaScript · C++ · C · Lua · Java
+
+**Tools**<br />
+Git · VS Code · Jupyter Notebook · Roblox Studio
+
+**Interests**<br />
+Web apps · Bots · Automation · AI experiments · Cybersecurity
+
+<br />
+
+<details>
+<summary>Activity &amp; languages</summary>
+
+<br />
+
+[![Rafael's GitHub activity](https://github-readme-stats.vercel.app/api?username=slophisticated&show_icons=true&hide_border=true&bg_color=f5f0fa&title_color=49335e&text_color=49335e&icon_color=805799)](https://github.com/slophisticated?tab=repositories)
+
+[![Languages used in public repositories](https://github-readme-stats.vercel.app/api/top-langs/?username=slophisticated&layout=compact&hide_border=true&bg_color=f5f0fa&title_color=49335e&text_color=49335e)](https://github.com/slophisticated?tab=repositories)
+
+<sub>Cards depend on an external service. Language usage reflects public repositories, not proficiency.</sub>
+
+</details>
+
+<br />
 
 ---
 
-### 🧩 About Me  
-Hey! I'm Rafael — a curious builder who loves combining creativity with code.  
-I spend most of my time exploring:
-
-- 🕸️ **Web Development** (both front & backend)
-- 🤖 **Discord Bot Development**
-- 🧠 **AI Experiments** (mostly for fun, still learning)
-- 🔐 **Cybersecurity** (beginner, but fascinated by the world of CTFs)
-- 🎮 **Roblox Studio Scripting** (sometimes just for messing around)
-
-I enjoy making things that are both useful and fun. Whether it’s a Discord bot that flirts with chaos or a clean-looking dashboard, I’m all about learning through building.
-
----
-
-### 🧠 Skills & Tools
-- **Languages:** Python, JavaScript, C++, C, Lua, Java  
-- **Tools I Use:** Git, VS Code, Jupyter Notebook, Roblox Studio  
-- **Dev Focus:** Web Apps, Bots, Simple AI, Automation Scripts  
-
----
-
-### 🔧 Currently Working On
-- 🛠️ Fullstack web dashboard for managing Discord bots  
-- 🤖 Kuromi-themed Discord bot with AI personality (WIP)  
-- 🧪 Exploring AI models from HuggingFace & experimenting with local LLMs
-
----
-
-### 📊 GitHub Stats
-![Rafael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=slophisticated&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=slophisticated&layout=compact&theme=tokyonight)
-
----
-
-### 📬 Let's Connect
-- 🧩 Discord: `aprctprince`
-- 🌐 Portofolio: _Coming Soon!_
-
----
-
-> _"Code is like humor. When you have to explain it, it’s bad."_ – Alan Kay
+**Let's connect.** Find me on Discord as [`aprctprince`](https://discord.com/users/867592202708582401).<br />
+<sub>Portfolio in progress. Still curious, still building.</sub>
