@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="480" viewBox="0 0 1200 480" role="img" aria-labelledby="title desc">
+  <title id="title">Rafael's arcade — slophisticated</title>
+  <desc id="desc">A purple and pink arcade title screen, with an abstract bow emblem and a game controller. Code, curiosity, a little chaos.</desc>
+  <rect width="1200" height="480" rx="24" fill="#171222"/>
+  <path d="M40 104V40h64M1096 40h64v64M40 376v64h64M1096 440h64v-64" fill="none" stroke="#d7b9ff" stroke-width="4"/>
+  <path d="M70 374H1130" stroke="#43314f" stroke-width="2"/>
+  <g fill="#ff9acb">
+    <path d="M86 96h8v8h8v8h-8v8h-8v-8h-8v-8h8zM1098 298h8v8h8v8h-8v8h-8v-8h-8v-8h8z"/>
+    <rect x="1082" y="112" width="8" height="8"/>
+    <rect x="790" y="324" width="8" height="8"/>
+  </g>
+  <text x="76" y="177" fill="#f3eafb" font-family="Georgia, serif" font-size="64" font-weight="bold">Rafael's arcade.</text>
+  <text x="80" y="239" fill="#d7b9ff" font-family="monospace" font-size="30" letter-spacing="2">slophisticated</text>
+  <text x="80" y="309" fill="#f3eafb" font-family="Arial, sans-serif" font-size="27">Code, curiosity, a little chaos.</text>
+  <g transform="translate(862 142)">
+    <path d="M0 0h32v16h16v16h16V16h16V0h32v64H80V48H64v16H32V48H0z" fill="#ff9acb"/>
+    <rect x="48" y="24" width="16" height="24" fill="#f3eafb"/>
+    <path d="M-12 100H124V116H140V180H124V196H92V180H20V196H-12V180H-28V116H-12Z" fill="#d7b9ff"/>
+    <path d="M0 140H16V124H32V140H48V156H32V172H16V156H0Z" fill="#171222"/>
+    <rect x="92" y="124" width="16" height="16" fill="#171222"/>
+    <rect x="108" y="148" width="16" height="16" fill="#171222"/>
+    <rect x="60" y="164" width="16" height="8" fill="#171222"/>
+  </g>
+  <text x="80" y="419" fill="#d7b9ff" font-family="monospace" font-size="21">WEB / BOTS / AI / SIDE QUESTS</text>
+  <text x="1120" y="419" text-anchor="end" fill="#ff9acb" font-family="monospace" font-size="21">CONTINUE?</text>
+</svg>
